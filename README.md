@@ -2,7 +2,7 @@
 <h3 align="center">A College Student Making Projects</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbandodkar&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbandodkar" /> </p>
 
-- 🌱 I’m currently learning **Flutter , Jenkins**
+- 🌱 I’m currently learning **Web Development s**
 
 - 📫 How to reach me **aryanbandodkar5@gmail.com**
 
